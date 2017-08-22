@@ -1,0 +1,4 @@
+Describe / summarize  3 different attacks that can be used to compromise personally identifiable information.
+~ Eavesdropping: People may listen or interperate your data patterns on your networks to get into your personal information. 
+~ Data Modification: People may read your data and imput new software to change personal information for their own mis-uses.
+~ Idenity Spoofing (IP Address Spoofing): When a person uses false IP address to modify, reroute, or delete data.
